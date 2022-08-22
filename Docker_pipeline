@@ -1,12 +1,7 @@
 def containerName="docker-pipeline"
-
 def tag="latest"
-
 def dockerHubUser="logn31"
-
 def httpPort="8090"
-
-
 
 node {
 
